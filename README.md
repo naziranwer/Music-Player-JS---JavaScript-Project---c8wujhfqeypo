@@ -2,10 +2,12 @@
 
 # Key Features:
 
-Display Playlists
+      Display Playlists
 
-The music player and its controls
+      The Music player and its controls
 
-Search Bar
+      Search Bar
 
-#Tech Stacks Used:Html,CSS and JavaScript
+# Tech Stacks Used:
+
+      Html,CSS and JavaScript
